@@ -1,0 +1,17 @@
+{
+  "name": "errogaht/kint-plugin",
+  "type": "october-plugin",
+  "keywords": ["kint"],
+  "description": "Register twig d() function",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alex Teterin",
+      "email": "7018407@gmail.com"
+    }
+  ],
+  "require": {
+    "raveren/kint": "^1.0",
+    "composer/installers": "~1.0"
+  }
+}
